@@ -1,1 +1,1 @@
-# Handling Modelcular data ESOL dataset with GNN
+# Handling Molecular data from ESOL dataset with GNN
